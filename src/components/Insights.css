@@ -1,0 +1,30 @@
+.insight {
+  background-color: #fff8e1;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+.insight:hover {
+  background-color: #ffe0b2;
+  cursor: pointer;
+}
+
+.modal {
+  background: white;
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.close-btn {
+  float: right;
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}

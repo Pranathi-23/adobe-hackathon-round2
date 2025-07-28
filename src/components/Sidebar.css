@@ -1,0 +1,24 @@
+.sidebar {
+  background-color: #f3f3f3;
+  padding: 10px;
+  height: 100vh;
+  overflow-y: auto;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar .level-H1 {
+  font-weight: bold;
+}
+
+.sidebar .level-H2 {
+  margin-left: 10px;
+}
+
+.sidebar .level-H3 {
+  margin-left: 20px;
+}
+
+.sidebar div:hover {
+  background-color: #e0f7fa;
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+{
+  "title": "AI Handbook",
+  "outline": [
+    { "level": "H1", "text": "Introduction", "page": 1 },
+    { "level": "H2", "text": "Machine Learning", "page": 2 },
+    { "level": "H3", "text": "Neural Networks", "page": 3 }
+  ]
+}
